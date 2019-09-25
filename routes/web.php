@@ -12,5 +12,6 @@
 */
 
 Route::get('/', function () {
+    // ini adalah halaman welcome terbaru
     return view('welcome');
 });

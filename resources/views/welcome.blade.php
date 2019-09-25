@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Projek hijab
+                    Projek hijab Terkenal seantero jagad raya
                 </div>
 
                 <div class="links">
